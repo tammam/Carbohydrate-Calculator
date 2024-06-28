@@ -7,6 +7,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import static com.codeborne.selenide.Condition.visible;
 import static com.codeborne.selenide.Selenide.*;
 
+import com.example.carbcalculator.pageobjects.CarbCalculatorPage;
 
 public class CarbCalculatorPageTest {
     CarbCalculatorPage mainPage = new CarbCalculatorPage();

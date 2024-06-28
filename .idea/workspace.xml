@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90aad0ab-d334-4114-aa71-4b4ef39266d0" name="Changes" comment="Add automated tests">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/browsers.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/demo/MainPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/demo/MainPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/carbcalculator/CarbCalculatorPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/carbcalculator/CarbCalculatorPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/carbcalculator/CarbCalculatorPageTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +17,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "tammam"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/tammam/Carbohydrate-Calculator",
+    "accountId": "1cd502ee-0552-418e-81cf-98738118ad8c"
+  }
+}]]></component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -45,6 +47,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.CarbCalculatorPageTest.executor": "Run",
     "JUnit.MainPageTest.ageFieldDoesNotAcceptNegativeValue.executor": "Run",
     "JUnit.MainPageTest.ageFieldDoesNotAcceptValueGreaterThan80.executor": "Run",
     "JUnit.MainPageTest.ageFieldDoesNotAcceptValueLessThan18.executor": "Run",
@@ -72,6 +75,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/com/example/carbcalculator" />
+    </key>
+  </component>
   <component name="RunManager" selected="JUnit.CarbCalculatorPageTest">
     <configuration name="CarbCalculatorPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="carbcalculator" />
@@ -176,6 +184,8 @@
     </recent_temporary>
   </component>
   <component name="SeleniumInternalSettingsState">
+    <option name="lastFrameworkName" value="Selenide" />
+    <option name="lastLanguageId" value="JAVA" />
     <option name="lastUrl" value="https://www.calculator.net/carbohydrate-calculator.html?cage=17&amp;csex=m&amp;cheightfeet=5&amp;cheightinch=10&amp;cpound=160&amp;cheightmeter=180&amp;ckg=60&amp;cactivity=1.375&amp;cmop=0&amp;cformula=m&amp;cfatpct=20&amp;printit=0&amp;ctype=standard" />
   </component>
   <component name="SharedIndexes">
@@ -196,8 +206,25 @@
       <updated>1719455934408</updated>
       <workItem from="1719455935732" duration="1025000" />
       <workItem from="1719456991307" duration="617000" />
-      <workItem from="1719531639684" duration="5853000" />
+      <workItem from="1719531639684" duration="6707000" />
     </task>
+    <task id="LOCAL-00001" summary="Add automated tests">
+      <option name="closed" value="true" />
+      <created>1719537545247</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719537545247</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add automated tests">
+      <option name="closed" value="true" />
+      <created>1719537688263</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719537688263</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
