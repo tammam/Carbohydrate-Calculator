@@ -72,93 +72,106 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.MainPageTest">
-    <configuration name="MainPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="demo" />
+  <component name="RunManager" selected="JUnit.CarbCalculatorPageTest">
+    <configuration name="CarbCalculatorPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="carbcalculator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="PATTERN" value="com.example.carbcalculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.example.demo" />
-      <option name="MAIN_CLASS_NAME" value="com.example.demo.MainPageTest" />
+      <option name="MAIN_CLASS_NAME" value="com.example.carbcalculator.CarbCalculatorPageTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainPageTest.testAgeFieldDoesNotAcceptValueLessThan18" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="demo" />
+    <configuration name="CarbCalculatorPageTest.testAgeFieldDoesNotAcceptValueLessThan18" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="carbcalculator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="PATTERN" value="com.example.carbcalculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.example.demo" />
-      <option name="MAIN_CLASS_NAME" value="com.example.demo.MainPageTest" />
+      <option name="MAIN_CLASS_NAME" value="com.example.carbcalculator.CarbCalculatorPageTest" />
       <option name="METHOD_NAME" value="testAgeFieldDoesNotAcceptValueLessThan18" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainPageTest.testClearButtonClearsAllFields" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="demo" />
+    <configuration name="CarbCalculatorPageTest.testClearButtonClearsAllFields" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="carbcalculator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="PATTERN" value="com.example.carbcalculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.example.demo" />
-      <option name="MAIN_CLASS_NAME" value="com.example.demo.MainPageTest" />
+      <option name="MAIN_CLASS_NAME" value="com.example.carbcalculator.CarbCalculatorPageTest" />
       <option name="METHOD_NAME" value="testClearButtonClearsAllFields" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainPageTest.testMetricUnitsTabBMREstimationDefaultValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="demo" />
+    <configuration name="CarbCalculatorPageTest.testMetricUnitsTabBMREstimationDefaultValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="carbcalculator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="PATTERN" value="com.example.carbcalculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.example.demo" />
-      <option name="MAIN_CLASS_NAME" value="com.example.demo.MainPageTest" />
+      <option name="MAIN_CLASS_NAME" value="com.example.carbcalculator.CarbCalculatorPageTest" />
       <option name="METHOD_NAME" value="testMetricUnitsTabBMREstimationDefaultValues" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainPageTest.testUSUnitsTabBMREstimationDefaultValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="demo" />
+    <configuration name="CarbCalculatorPageTest.testUSUnitsTabBMREstimationDefaultValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="carbcalculator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="PATTERN" value="com.example.carbcalculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.example.demo" />
-      <option name="MAIN_CLASS_NAME" value="com.example.demo.MainPageTest" />
+      <option name="MAIN_CLASS_NAME" value="com.example.carbcalculator.CarbCalculatorPageTest" />
       <option name="METHOD_NAME" value="testUSUnitsTabBMREstimationDefaultValues" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="carbcalculator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="carbcalculator" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MainPageTest" />
-        <item itemvalue="JUnit.MainPageTest.testAgeFieldDoesNotAcceptValueLessThan18" />
-        <item itemvalue="JUnit.MainPageTest.testClearButtonClearsAllFields" />
-        <item itemvalue="JUnit.MainPageTest.testUSUnitsTabBMREstimationDefaultValues" />
-        <item itemvalue="JUnit.MainPageTest.testMetricUnitsTabBMREstimationDefaultValues" />
+        <item itemvalue="JUnit.CarbCalculatorPageTest" />
+        <item itemvalue="JUnit.CarbCalculatorPageTest.testAgeFieldDoesNotAcceptValueLessThan18" />
+        <item itemvalue="JUnit.CarbCalculatorPageTest.testClearButtonClearsAllFields" />
+        <item itemvalue="JUnit.CarbCalculatorPageTest.testUSUnitsTabBMREstimationDefaultValues" />
+        <item itemvalue="JUnit.CarbCalculatorPageTest.testMetricUnitsTabBMREstimationDefaultValues" />
       </list>
     </recent_temporary>
   </component>

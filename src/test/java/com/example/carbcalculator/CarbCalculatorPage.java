@@ -1,11 +1,11 @@
-package com.example.demo;
+package com.example.carbcalculator;
 
 import com.codeborne.selenide.SelenideElement;
 
 import static com.codeborne.selenide.Selenide.$;
 
 // page_url =https://www.calculator.net/carbohydrate-calculator.html
-public class MainPage {
+public class CarbCalculatorPage {
     public SelenideElement unitsTabs = $("div#topmenu");
     public SelenideElement ageInput = $("input#cage");
     public SelenideElement genderMaleRadioButton = $("input#csex1");

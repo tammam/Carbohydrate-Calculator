@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.carbcalculator;
 
 import org.junit.jupiter.api.*;
 
@@ -8,8 +8,8 @@ import static com.codeborne.selenide.Condition.visible;
 import static com.codeborne.selenide.Selenide.*;
 
 
-public class MainPageTest {
-    MainPage mainPage = new MainPage();
+public class CarbCalculatorPageTest {
+    CarbCalculatorPage mainPage = new CarbCalculatorPage();
 
     @BeforeEach
     public void setUp() {
